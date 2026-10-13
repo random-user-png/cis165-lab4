@@ -1,1 +1,4 @@
 AI was not used in the completion of this assignment.
+In average.cpp, I chose to add the 5 variables and store the result in a variable called "sum" and to store the division by 5 into another variable separately, instead of doing the whole calculation and storing it directly in the variable "average", so the sum could be used in the calculation for the average, but then also later be displayed.
+To verify, I added the numbers 28, 32, 37, 24, and 33 to get 154, then divided by 5 to get 30.8.
+What I learned to do is to split the code into different sections for declarations, processing, and output. What I might still need to practice is to go against my initial instinct to assign values to variables upon initialization, and to instead declare them all first and later assign values where needed.
