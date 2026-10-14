@@ -2,8 +2,8 @@
 
 | Program and test | Values used | Expected results | Actual results | Match or correction |
 |---|---|---|---|---|
-| Average — assigned values | 28, 32, 37, 24, 33 | 30.8 | 30.8 | Match |
-| Average — changed values | 65, 33, 9, 4, 90 | 40.2 | 40.2 | Match |
+| Average — assigned values | 28, 32, 37, 24, 33 | Sum: 154; Average: 30.8 | Sum: 154; Average: 30.8 | Match |
+| Average — changed values | 65, 33, 9, 4, 90 | Sum: 201; Average: 40.2 | Sum: 201; Average: 40.2 | Match |
 | Ocean — assigned rate | 1.5, 1.5(5), 1.5(7), 1.5(10) | 7.5, 10.5, 15 | 7.5, 10.5, 15 | Match |
 | Ocean — changed rate | 2.5, 2.5(5), 2.5(7), 2.5(10) | 12.5, 17.5, 25 | 12.5, 17.5, 25 | Match |
 
